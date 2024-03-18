@@ -1,0 +1,1292 @@
+Tabela 1:
+    Linha: 0, Coluna: 0, Valor: 
+    Linha: 0, Coluna: 1, Valor: CPPD
+COMISSÃO PERMANENTE DE PESSOAL DOCENTE
+    Linha: 0, Coluna: 2, Valor: 
+
+Tabela 2:
+    Linha: 0, Coluna: 0, Valor: UFRA
+    Linha: 0, Coluna: 1, Valor: RELATÓRIO ANUAL DE ATIVIDADES DO DOCENTE – RADOC
+ANO: ________
+    Linha: 0, Coluna: 2, Valor: RELATÓRIO ANUAL DE ATIVIDADES DO DOCENTE – RADOC
+ANO: ________
+    Linha: 0, Coluna: 3, Valor: RELATÓRIO ANUAL DE ATIVIDADES DO DOCENTE – RADOC
+ANO: ________
+    Linha: 0, Coluna: 4, Valor: RELATÓRIO ANUAL DE ATIVIDADES DO DOCENTE – RADOC
+ANO: ________
+    Linha: 0, Coluna: 5, Valor: CPPD
+    Linha: 0, Coluna: 6, Valor: CPPD
+    Linha: 1, Coluna: 0, Valor: 1 – INSTITUTO/CAMPUS: ___________________
+    Linha: 1, Coluna: 1, Valor: 1 – INSTITUTO/CAMPUS: ___________________
+    Linha: 1, Coluna: 2, Valor: 1 – INSTITUTO/CAMPUS: ___________________
+    Linha: 1, Coluna: 3, Valor: 1 – INSTITUTO/CAMPUS: ___________________
+    Linha: 1, Coluna: 4, Valor: 1 – INSTITUTO/CAMPUS: ___________________
+    Linha: 1, Coluna: 5, Valor: 1 – INSTITUTO/CAMPUS: ___________________
+    Linha: 1, Coluna: 6, Valor: 1 – INSTITUTO/CAMPUS: ___________________
+    Linha: 2, Coluna: 0, Valor: NOME:
+    Linha: 2, Coluna: 1, Valor: NOME:
+    Linha: 2, Coluna: 2, Valor: NOME:
+    Linha: 2, Coluna: 3, Valor: NOME:
+    Linha: 2, Coluna: 4, Valor: SIAPE:
+    Linha: 2, Coluna: 5, Valor: SIAPE:
+    Linha: 2, Coluna: 6, Valor: SIAPE:
+    Linha: 3, Coluna: 0, Valor: Classe e Referência
+    Linha: 3, Coluna: 1, Valor: Classe e Referência
+    Linha: 3, Coluna: 2, Valor: Vínculo
+    Linha: 3, Coluna: 3, Valor: Regime de Trabalho
+    Linha: 3, Coluna: 4, Valor: Regime de Trabalho
+    Linha: 3, Coluna: 5, Valor: Regime de Trabalho
+    Linha: 3, Coluna: 6, Valor: Regime de Trabalho
+    Linha: 4, Coluna: 0, Valor: (   ) A; (  ) B; (   ) C; (   ) D; (   ) E
+    Linha: 4, Coluna: 1, Valor: (   ) A; (  ) B; (   ) C; (   ) D; (   ) E
+    Linha: 4, Coluna: 2, Valor: (    ) Estatutário
+    Linha: 4, Coluna: 3, Valor: (    ) DE        (    ) 40h        (    ) 20h
+    Linha: 4, Coluna: 4, Valor: (    ) DE        (    ) 40h        (    ) 20h
+    Linha: 4, Coluna: 5, Valor: (    ) DE        (    ) 40h        (    ) 20h
+    Linha: 4, Coluna: 6, Valor: (    ) DE        (    ) 40h        (    ) 20h
+    Linha: 5, Coluna: 0, Valor: TITULAÇÃO
+    Linha: 5, Coluna: 1, Valor: TITULAÇÃO
+    Linha: 5, Coluna: 2, Valor: TITULAÇÃO
+    Linha: 5, Coluna: 3, Valor: TITULAÇÃO
+    Linha: 5, Coluna: 4, Valor: TITULAÇÃO
+    Linha: 5, Coluna: 5, Valor: TITULAÇÃO
+    Linha: 5, Coluna: 6, Valor: TITULAÇÃO
+    Linha: 6, Coluna: 0, Valor: (    ) Graduação       (     ) Especialização     (    ) Mestre     (    ) Doutor
+    Linha: 6, Coluna: 1, Valor: (    ) Graduação       (     ) Especialização     (    ) Mestre     (    ) Doutor
+    Linha: 6, Coluna: 2, Valor: (    ) Graduação       (     ) Especialização     (    ) Mestre     (    ) Doutor
+    Linha: 6, Coluna: 3, Valor: (    ) Graduação       (     ) Especialização     (    ) Mestre     (    ) Doutor
+    Linha: 6, Coluna: 4, Valor: (    ) Graduação       (     ) Especialização     (    ) Mestre     (    ) Doutor
+    Linha: 6, Coluna: 5, Valor: (    ) Graduação       (     ) Especialização     (    ) Mestre     (    ) Doutor
+    Linha: 6, Coluna: 6, Valor: (    ) Graduação       (     ) Especialização     (    ) Mestre     (    ) Doutor
+    Linha: 7, Coluna: 0, Valor: 2 – SOLICITAÇÃO
+    Linha: 7, Coluna: 1, Valor: 2 – SOLICITAÇÃO
+    Linha: 7, Coluna: 2, Valor: 2 – SOLICITAÇÃO
+    Linha: 7, Coluna: 3, Valor: 2 – SOLICITAÇÃO
+    Linha: 7, Coluna: 4, Valor: 2 – SOLICITAÇÃO
+    Linha: 7, Coluna: 5, Valor: 2 – SOLICITAÇÃO
+    Linha: 7, Coluna: 6, Valor: 2 – SOLICITAÇÃO
+    Linha: 8, Coluna: 0, Valor: Solicito a aprovação do RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC correspondente ao ano de:
+    Linha: 8, Coluna: 1, Valor: Solicito a aprovação do RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC correspondente ao ano de:
+    Linha: 8, Coluna: 2, Valor: Solicito a aprovação do RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC correspondente ao ano de:
+    Linha: 8, Coluna: 3, Valor: Solicito a aprovação do RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC correspondente ao ano de:
+    Linha: 8, Coluna: 4, Valor: Solicito a aprovação do RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC correspondente ao ano de:
+    Linha: 8, Coluna: 5, Valor: Solicito a aprovação do RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC correspondente ao ano de:
+    Linha: 8, Coluna: 6, Valor: 
+
+Tabela 3:
+    Linha: 0, Coluna: 0, Valor: UFRA
+    Linha: 0, Coluna: 1, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC
+ATIVIDADES DE ENSINO
+ANO: _______
+    Linha: 0, Coluna: 2, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC
+ATIVIDADES DE ENSINO
+ANO: _______
+    Linha: 0, Coluna: 3, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC
+ATIVIDADES DE ENSINO
+ANO: _______
+    Linha: 0, Coluna: 4, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC
+ATIVIDADES DE ENSINO
+ANO: _______
+    Linha: 0, Coluna: 5, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC
+ATIVIDADES DE ENSINO
+ANO: _______
+    Linha: 0, Coluna: 6, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC
+ATIVIDADES DE ENSINO
+ANO: _______
+    Linha: 0, Coluna: 7, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC
+ATIVIDADES DE ENSINO
+ANO: _______
+    Linha: 0, Coluna: 8, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC
+ATIVIDADES DE ENSINO
+ANO: _______
+    Linha: 0, Coluna: 9, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC
+ATIVIDADES DE ENSINO
+ANO: _______
+    Linha: 0, Coluna: 10, Valor: CPPD
+    Linha: 0, Coluna: 11, Valor: CPPD
+    Linha: 1, Coluna: 0, Valor: ATIVIDADES DE ENSINO
+ATIVIDADES LETIVAS-AULAS
+    Linha: 1, Coluna: 1, Valor: ATIVIDADES DE ENSINO
+ATIVIDADES LETIVAS-AULAS
+    Linha: 1, Coluna: 2, Valor: ATIVIDADES DE ENSINO
+ATIVIDADES LETIVAS-AULAS
+    Linha: 1, Coluna: 3, Valor: ATIVIDADES DE ENSINO
+ATIVIDADES LETIVAS-AULAS
+    Linha: 1, Coluna: 4, Valor: ATIVIDADES DE ENSINO
+ATIVIDADES LETIVAS-AULAS
+    Linha: 1, Coluna: 5, Valor: ATIVIDADES DE ENSINO
+ATIVIDADES LETIVAS-AULAS
+    Linha: 1, Coluna: 6, Valor: ATIVIDADES DE ENSINO
+ATIVIDADES LETIVAS-AULAS
+    Linha: 1, Coluna: 7, Valor: ATIVIDADES DE ENSINO
+ATIVIDADES LETIVAS-AULAS
+    Linha: 1, Coluna: 8, Valor: ATIVIDADES DE ENSINO
+ATIVIDADES LETIVAS-AULAS
+    Linha: 1, Coluna: 9, Valor: ATIVIDADES DE ENSINO
+ATIVIDADES LETIVAS-AULAS
+    Linha: 1, Coluna: 10, Valor: ATIVIDADES DE ENSINO
+ATIVIDADES LETIVAS-AULAS
+    Linha: 1, Coluna: 11, Valor: ATIVIDADES DE ENSINO
+ATIVIDADES LETIVAS-AULAS
+    Linha: 2, Coluna: 0, Valor: ANEXAR: (DOC.1) DECLARAÇÃO DE DISCIPLINAS MINISTRADAS e (DOC 2) DIÁRIOS DE TURMAS
+Disciplinas
+    Linha: 2, Coluna: 1, Valor: ANEXAR: (DOC.1) DECLARAÇÃO DE DISCIPLINAS MINISTRADAS e (DOC 2) DIÁRIOS DE TURMAS
+Disciplinas
+    Linha: 2, Coluna: 2, Valor: ANEXAR: (DOC.1) DECLARAÇÃO DE DISCIPLINAS MINISTRADAS e (DOC 2) DIÁRIOS DE TURMAS
+Disciplinas
+    Linha: 2, Coluna: 3, Valor: ANEXAR: (DOC.1) DECLARAÇÃO DE DISCIPLINAS MINISTRADAS e (DOC 2) DIÁRIOS DE TURMAS
+Disciplinas
+    Linha: 2, Coluna: 4, Valor: ANEXAR: (DOC.1) DECLARAÇÃO DE DISCIPLINAS MINISTRADAS e (DOC 2) DIÁRIOS DE TURMAS
+Disciplinas
+    Linha: 2, Coluna: 5, Valor: Nº de Turmas
+    Linha: 2, Coluna: 6, Valor: Nº de Turmas
+    Linha: 2, Coluna: 7, Valor: CH por Turma
+    Linha: 2, Coluna: 8, Valor: CH por Turma
+    Linha: 2, Coluna: 9, Valor: Docentes Envolvidos
+    Linha: 2, Coluna: 10, Valor: Docentes Envolvidos
+    Linha: 2, Coluna: 11, Valor: Docentes Envolvidos
+    Linha: 3, Coluna: 0, Valor: Código Nome
+    Linha: 3, Coluna: 1, Valor: Código Nome
+    Linha: 3, Coluna: 2, Valor: Curso
+    Linha: 3, Coluna: 3, Valor: Nível
+    Linha: 3, Coluna: 4, Valor: CH Total
+    Linha: 3, Coluna: 5, Valor: T
+    Linha: 3, Coluna: 6, Valor: P
+    Linha: 3, Coluna: 7, Valor: T
+    Linha: 3, Coluna: 8, Valor: P
+    Linha: 3, Coluna: 9, Valor: Nome
+    Linha: 3, Coluna: 10, Valor: Nome
+    Linha: 3, Coluna: 11, Valor: CH
+    Linha: 4, Coluna: 0, Valor: CH DO 1º SEMESTRE
+    Linha: 4, Coluna: 1, Valor: CH DO 1º SEMESTRE
+    Linha: 4, Coluna: 2, Valor: CH DO 1º SEMESTRE
+    Linha: 4, Coluna: 3, Valor: CH DO 1º SEMESTRE
+    Linha: 4, Coluna: 4, Valor: CH DO 1º SEMESTRE
+    Linha: 4, Coluna: 5, Valor: CH DO 1º SEMESTRE
+    Linha: 4, Coluna: 6, Valor: CH DO 1º SEMESTRE
+    Linha: 4, Coluna: 7, Valor: CH DO 1º SEMESTRE
+    Linha: 4, Coluna: 8, Valor: CH DO 1º SEMESTRE
+    Linha: 4, Coluna: 9, Valor: CH DO 1º SEMESTRE
+    Linha: 4, Coluna: 10, Valor: CH DO 1º SEMESTRE
+    Linha: 4, Coluna: 11, Valor: 
+    Linha: 5, Coluna: 0, Valor: 
+    Linha: 5, Coluna: 1, Valor: 
+    Linha: 5, Coluna: 2, Valor: 
+    Linha: 5, Coluna: 3, Valor: 
+    Linha: 5, Coluna: 4, Valor: 
+    Linha: 5, Coluna: 5, Valor: 
+    Linha: 5, Coluna: 6, Valor: 
+    Linha: 5, Coluna: 7, Valor: 
+    Linha: 5, Coluna: 8, Valor: 
+    Linha: 5, Coluna: 9, Valor: 
+    Linha: 5, Coluna: 10, Valor: 
+    Linha: 5, Coluna: 11, Valor: 
+    Linha: 6, Coluna: 0, Valor: 
+    Linha: 6, Coluna: 1, Valor: 
+    Linha: 6, Coluna: 2, Valor: 
+    Linha: 6, Coluna: 3, Valor: 
+    Linha: 6, Coluna: 4, Valor: 
+    Linha: 6, Coluna: 5, Valor: 
+    Linha: 6, Coluna: 6, Valor: 
+    Linha: 6, Coluna: 7, Valor: 
+    Linha: 6, Coluna: 8, Valor: 
+    Linha: 6, Coluna: 9, Valor: 
+    Linha: 6, Coluna: 10, Valor: 
+    Linha: 6, Coluna: 11, Valor: 
+    Linha: 7, Coluna: 0, Valor: 
+    Linha: 7, Coluna: 1, Valor: 
+    Linha: 7, Coluna: 2, Valor: 
+    Linha: 7, Coluna: 3, Valor: 
+    Linha: 7, Coluna: 4, Valor: 
+    Linha: 7, Coluna: 5, Valor: 
+    Linha: 7, Coluna: 6, Valor: 
+    Linha: 7, Coluna: 7, Valor: 
+    Linha: 7, Coluna: 8, Valor: 
+    Linha: 7, Coluna: 9, Valor: 
+    Linha: 7, Coluna: 10, Valor: 
+    Linha: 7, Coluna: 11, Valor: 
+    Linha: 8, Coluna: 0, Valor: 
+    Linha: 8, Coluna: 1, Valor: 
+    Linha: 8, Coluna: 2, Valor: 
+    Linha: 8, Coluna: 3, Valor: 
+    Linha: 8, Coluna: 4, Valor: 
+    Linha: 8, Coluna: 5, Valor: 
+    Linha: 8, Coluna: 6, Valor: 
+    Linha: 8, Coluna: 7, Valor: 
+    Linha: 8, Coluna: 8, Valor: 
+    Linha: 8, Coluna: 9, Valor: 
+    Linha: 8, Coluna: 10, Valor: 
+    Linha: 8, Coluna: 11, Valor: 
+    Linha: 9, Coluna: 0, Valor: CH DO 2º SEMESTRE
+    Linha: 9, Coluna: 1, Valor: CH DO 2º SEMESTRE
+    Linha: 9, Coluna: 2, Valor: CH DO 2º SEMESTRE
+    Linha: 9, Coluna: 3, Valor: CH DO 2º SEMESTRE
+    Linha: 9, Coluna: 4, Valor: CH DO 2º SEMESTRE
+    Linha: 9, Coluna: 5, Valor: CH DO 2º SEMESTRE
+    Linha: 9, Coluna: 6, Valor: CH DO 2º SEMESTRE
+    Linha: 9, Coluna: 7, Valor: CH DO 2º SEMESTRE
+    Linha: 9, Coluna: 8, Valor: CH DO 2º SEMESTRE
+    Linha: 9, Coluna: 9, Valor: CH DO 2º SEMESTRE
+    Linha: 9, Coluna: 10, Valor: CH DO 2º SEMESTRE
+    Linha: 9, Coluna: 11, Valor: 
+    Linha: 10, Coluna: 0, Valor: 
+    Linha: 10, Coluna: 1, Valor: 
+    Linha: 10, Coluna: 2, Valor: 
+    Linha: 10, Coluna: 3, Valor: 
+    Linha: 10, Coluna: 4, Valor: 
+    Linha: 10, Coluna: 5, Valor: 
+    Linha: 10, Coluna: 6, Valor: 
+    Linha: 10, Coluna: 7, Valor: 
+    Linha: 10, Coluna: 8, Valor: 
+    Linha: 10, Coluna: 9, Valor: 
+    Linha: 10, Coluna: 10, Valor: 
+    Linha: 10, Coluna: 11, Valor: 
+    Linha: 11, Coluna: 0, Valor: 
+    Linha: 11, Coluna: 1, Valor: 
+    Linha: 11, Coluna: 2, Valor: 
+    Linha: 11, Coluna: 3, Valor: 
+    Linha: 11, Coluna: 4, Valor: 
+    Linha: 11, Coluna: 5, Valor: 
+    Linha: 11, Coluna: 6, Valor: 
+    Linha: 11, Coluna: 7, Valor: 
+    Linha: 11, Coluna: 8, Valor: 
+    Linha: 11, Coluna: 9, Valor: 
+    Linha: 11, Coluna: 10, Valor: 
+    Linha: 11, Coluna: 11, Valor: 
+    Linha: 12, Coluna: 0, Valor: 
+    Linha: 12, Coluna: 1, Valor: 
+    Linha: 12, Coluna: 2, Valor: 
+    Linha: 12, Coluna: 3, Valor: 
+    Linha: 12, Coluna: 4, Valor: 
+    Linha: 12, Coluna: 5, Valor: 
+    Linha: 12, Coluna: 6, Valor: 
+    Linha: 12, Coluna: 7, Valor: 
+    Linha: 12, Coluna: 8, Valor: 
+    Linha: 12, Coluna: 9, Valor: 
+    Linha: 12, Coluna: 10, Valor: 
+    Linha: 12, Coluna: 11, Valor: 
+    Linha: 13, Coluna: 0, Valor: 
+    Linha: 13, Coluna: 1, Valor: 
+    Linha: 13, Coluna: 2, Valor: 
+    Linha: 13, Coluna: 3, Valor: 
+    Linha: 13, Coluna: 4, Valor: 
+    Linha: 13, Coluna: 5, Valor: 
+    Linha: 13, Coluna: 6, Valor: 
+    Linha: 13, Coluna: 7, Valor: 
+    Linha: 13, Coluna: 8, Valor: 
+    Linha: 13, Coluna: 9, Valor: 
+    Linha: 13, Coluna: 10, Valor: 
+    Linha: 13, Coluna: 11, Valor: 
+
+Tabela 4:
+    Linha: 0, Coluna: 0, Valor: 1.1.1 CÁLCULO DA CH SEMANAL DE AULAS
+    Linha: 0, Coluna: 1, Valor: 1.1.1 CÁLCULO DA CH SEMANAL DE AULAS
+    Linha: 0, Coluna: 2, Valor: 1.1.1 CÁLCULO DA CH SEMANAL DE AULAS
+    Linha: 0, Coluna: 3, Valor: 1.1.1 CÁLCULO DA CH SEMANAL DE AULAS
+    Linha: 1, Coluna: 0, Valor: Semestre
+    Linha: 1, Coluna: 1, Valor: CH Semanal
+    Linha: 1, Coluna: 2, Valor: CH Semanal
+    Linha: 1, Coluna: 3, Valor: CH Semanal
+    Linha: 2, Coluna: 0, Valor: Semestre
+    Linha: 2, Coluna: 1, Valor: Graduação
+    Linha: 2, Coluna: 2, Valor: Pós-Graduação
+    Linha: 2, Coluna: 3, Valor: Total
+    Linha: 3, Coluna: 0, Valor: 1º
+    Linha: 3, Coluna: 1, Valor: 
+    Linha: 3, Coluna: 2, Valor: 
+    Linha: 3, Coluna: 3, Valor: 
+    Linha: 4, Coluna: 0, Valor: 2º
+    Linha: 4, Coluna: 1, Valor: 
+    Linha: 4, Coluna: 2, Valor: 
+    Linha: 4, Coluna: 3, Valor: 
+
+Tabela 5:
+    Linha: 0, Coluna: 0, Valor: ATIVIDADES PEDAGÓGICAS COMPLEMENTARES
+    Linha: 0, Coluna: 1, Valor: ATIVIDADES PEDAGÓGICAS COMPLEMENTARES
+    Linha: 0, Coluna: 2, Valor: ATIVIDADES PEDAGÓGICAS COMPLEMENTARES
+    Linha: 0, Coluna: 3, Valor: ATIVIDADES PEDAGÓGICAS COMPLEMENTARES
+    Linha: 1, Coluna: 0, Valor: Semestre
+    Linha: 1, Coluna: 1, Valor: CH Semanal
+    Linha: 1, Coluna: 2, Valor: CH Semanal
+    Linha: 1, Coluna: 3, Valor: CH Semanal
+    Linha: 2, Coluna: 0, Valor: Semestre
+    Linha: 2, Coluna: 1, Valor: Graduação
+    Linha: 2, Coluna: 2, Valor: Pós-Graduação
+    Linha: 2, Coluna: 3, Valor: Total
+    Linha: 3, Coluna: 0, Valor: 1º
+    Linha: 3, Coluna: 1, Valor: 
+    Linha: 3, Coluna: 2, Valor: 
+    Linha: 3, Coluna: 3, Valor: 
+    Linha: 4, Coluna: 0, Valor: 2º
+    Linha: 4, Coluna: 1, Valor: 
+    Linha: 4, Coluna: 2, Valor: 
+    Linha: 4, Coluna: 3, Valor: 
+
+Tabela 6:
+    Linha: 0, Coluna: 0, Valor: ATIVIDADES DE ORIENTAÇÃO/SUPERVISÃO PRECEPTORIA E OU TUTORIA
+    Linha: 0, Coluna: 1, Valor: ATIVIDADES DE ORIENTAÇÃO/SUPERVISÃO PRECEPTORIA E OU TUTORIA
+    Linha: 0, Coluna: 2, Valor: ATIVIDADES DE ORIENTAÇÃO/SUPERVISÃO PRECEPTORIA E OU TUTORIA
+    Linha: 0, Coluna: 3, Valor: ATIVIDADES DE ORIENTAÇÃO/SUPERVISÃO PRECEPTORIA E OU TUTORIA
+    Linha: 0, Coluna: 4, Valor: ATIVIDADES DE ORIENTAÇÃO/SUPERVISÃO PRECEPTORIA E OU TUTORIA
+    Linha: 0, Coluna: 5, Valor: ATIVIDADES DE ORIENTAÇÃO/SUPERVISÃO PRECEPTORIA E OU TUTORIA
+    Linha: 1, Coluna: 0, Valor: Semestre
+    Linha: 1, Coluna: 1, Valor: CH Semanal
+    Linha: 1, Coluna: 2, Valor: CH Semanal
+    Linha: 1, Coluna: 3, Valor: CH Semanal
+    Linha: 1, Coluna: 4, Valor: CH Semanal
+    Linha: 1, Coluna: 5, Valor: CH Semanal
+    Linha: 2, Coluna: 0, Valor: Semestre
+    Linha: 2, Coluna: 1, Valor: Orientação
+    Linha: 2, Coluna: 2, Valor: Co-Orientação
+    Linha: 2, Coluna: 3, Valor: Supervisão
+    Linha: 2, Coluna: 4, Valor: Preceptoria e/ou Tutoria
+    Linha: 2, Coluna: 5, Valor: Total
+    Linha: 3, Coluna: 0, Valor: 1º.
+    Linha: 3, Coluna: 1, Valor: 
+    Linha: 3, Coluna: 2, Valor: 
+    Linha: 3, Coluna: 3, Valor: 
+    Linha: 3, Coluna: 4, Valor: 
+    Linha: 3, Coluna: 5, Valor: 
+    Linha: 4, Coluna: 0, Valor: 2º.
+    Linha: 4, Coluna: 1, Valor: 
+    Linha: 4, Coluna: 2, Valor: 
+    Linha: 4, Coluna: 3, Valor: 
+    Linha: 4, Coluna: 4, Valor: 
+    Linha: 4, Coluna: 5, Valor: 
+
+Tabela 7:
+    Linha: 0, Coluna: 0, Valor: 1.3.1 – DESCRIÇÃO DA ORIENTAÇÃO E CO-ORIENTAÇÃO ACADÊMICA (DOC....... a DOC.........)
+    Linha: 0, Coluna: 1, Valor: 1.3.1 – DESCRIÇÃO DA ORIENTAÇÃO E CO-ORIENTAÇÃO ACADÊMICA (DOC....... a DOC.........)
+    Linha: 0, Coluna: 2, Valor: 1.3.1 – DESCRIÇÃO DA ORIENTAÇÃO E CO-ORIENTAÇÃO ACADÊMICA (DOC....... a DOC.........)
+    Linha: 0, Coluna: 3, Valor: 1.3.1 – DESCRIÇÃO DA ORIENTAÇÃO E CO-ORIENTAÇÃO ACADÊMICA (DOC....... a DOC.........)
+    Linha: 0, Coluna: 4, Valor: 1.3.1 – DESCRIÇÃO DA ORIENTAÇÃO E CO-ORIENTAÇÃO ACADÊMICA (DOC....... a DOC.........)
+    Linha: 0, Coluna: 5, Valor: 1.3.1 – DESCRIÇÃO DA ORIENTAÇÃO E CO-ORIENTAÇÃO ACADÊMICA (DOC....... a DOC.........)
+    Linha: 0, Coluna: 6, Valor: 1.3.1 – DESCRIÇÃO DA ORIENTAÇÃO E CO-ORIENTAÇÃO ACADÊMICA (DOC....... a DOC.........)
+    Linha: 1, Coluna: 0, Valor: DOC. Nº
+    Linha: 1, Coluna: 1, Valor: Nome e/ou Matrícula do Discente*
+    Linha: 1, Coluna: 2, Valor: Curso
+    Linha: 1, Coluna: 3, Valor: Tipo
+    Linha: 1, Coluna: 4, Valor: Nível
+    Linha: 1, Coluna: 5, Valor: CH semanal
+    Linha: 1, Coluna: 6, Valor: CH semanal
+    Linha: 2, Coluna: 0, Valor: DOC. Nº
+    Linha: 2, Coluna: 1, Valor: Nome e/ou Matrícula do Discente*
+    Linha: 2, Coluna: 2, Valor: Curso
+    Linha: 2, Coluna: 3, Valor: Tipo
+    Linha: 2, Coluna: 4, Valor: Nível
+    Linha: 2, Coluna: 5, Valor: 1ºs
+    Linha: 2, Coluna: 6, Valor: 2ºs
+    Linha: 3, Coluna: 0, Valor: 
+    Linha: 3, Coluna: 1, Valor: 
+    Linha: 3, Coluna: 2, Valor: 
+    Linha: 3, Coluna: 3, Valor: 
+    Linha: 3, Coluna: 4, Valor: 
+    Linha: 3, Coluna: 5, Valor: 
+    Linha: 3, Coluna: 6, Valor: 
+    Linha: 4, Coluna: 0, Valor: 
+    Linha: 4, Coluna: 1, Valor: 
+    Linha: 4, Coluna: 2, Valor: 
+    Linha: 4, Coluna: 3, Valor: 
+    Linha: 4, Coluna: 4, Valor: 
+    Linha: 4, Coluna: 5, Valor: 
+    Linha: 4, Coluna: 6, Valor: 
+    Linha: 5, Coluna: 0, Valor: 
+    Linha: 5, Coluna: 1, Valor: 
+    Linha: 5, Coluna: 2, Valor: 
+    Linha: 5, Coluna: 3, Valor: 
+    Linha: 5, Coluna: 4, Valor: 
+    Linha: 5, Coluna: 5, Valor: 
+    Linha: 5, Coluna: 6, Valor: 
+    Linha: 6, Coluna: 0, Valor: 
+    Linha: 6, Coluna: 1, Valor: 
+    Linha: 6, Coluna: 2, Valor: 
+    Linha: 6, Coluna: 3, Valor: 
+    Linha: 6, Coluna: 4, Valor: 
+    Linha: 6, Coluna: 5, Valor: 
+    Linha: 6, Coluna: 6, Valor: 
+
+Tabela 8:
+    Linha: 0, Coluna: 0, Valor: 1.3.2 - SUPERVISÃO ACADÊMICA (DOC.......... a DOC.............)
+    Linha: 0, Coluna: 1, Valor: 1.3.2 - SUPERVISÃO ACADÊMICA (DOC.......... a DOC.............)
+    Linha: 0, Coluna: 2, Valor: 1.3.2 - SUPERVISÃO ACADÊMICA (DOC.......... a DOC.............)
+    Linha: 0, Coluna: 3, Valor: 1.3.2 - SUPERVISÃO ACADÊMICA (DOC.......... a DOC.............)
+    Linha: 0, Coluna: 4, Valor: 1.3.2 - SUPERVISÃO ACADÊMICA (DOC.......... a DOC.............)
+    Linha: 0, Coluna: 5, Valor: 1.3.2 - SUPERVISÃO ACADÊMICA (DOC.......... a DOC.............)
+    Linha: 0, Coluna: 6, Valor: 1.3.2 - SUPERVISÃO ACADÊMICA (DOC.......... a DOC.............)
+    Linha: 1, Coluna: 0, Valor: DOC. Nº
+    Linha: 1, Coluna: 1, Valor: Nome e/ou Matrícula do Discente
+    Linha: 1, Coluna: 2, Valor: Curso
+    Linha: 1, Coluna: 3, Valor: Tipo
+    Linha: 1, Coluna: 4, Valor: Nível
+    Linha: 1, Coluna: 5, Valor: CH semanal
+    Linha: 1, Coluna: 6, Valor: CH semanal
+    Linha: 2, Coluna: 0, Valor: DOC. Nº
+    Linha: 2, Coluna: 1, Valor: 
+    Linha: 2, Coluna: 2, Valor: Curso
+    Linha: 2, Coluna: 3, Valor: Tipo
+    Linha: 2, Coluna: 4, Valor: Nível
+    Linha: 2, Coluna: 5, Valor: 1ºs
+    Linha: 2, Coluna: 6, Valor: 2ºs
+    Linha: 3, Coluna: 0, Valor: 
+    Linha: 3, Coluna: 1, Valor: 
+    Linha: 3, Coluna: 2, Valor: 
+    Linha: 3, Coluna: 3, Valor: 
+    Linha: 3, Coluna: 4, Valor: 
+    Linha: 3, Coluna: 5, Valor: 
+    Linha: 3, Coluna: 6, Valor: 
+    Linha: 4, Coluna: 0, Valor: 
+    Linha: 4, Coluna: 1, Valor: 
+    Linha: 4, Coluna: 2, Valor: 
+    Linha: 4, Coluna: 3, Valor: 
+    Linha: 4, Coluna: 4, Valor: 
+    Linha: 4, Coluna: 5, Valor: 
+    Linha: 4, Coluna: 6, Valor: 
+    Linha: 5, Coluna: 0, Valor: 
+    Linha: 5, Coluna: 1, Valor: 
+    Linha: 5, Coluna: 2, Valor: 
+    Linha: 5, Coluna: 3, Valor: 
+    Linha: 5, Coluna: 4, Valor: 
+    Linha: 5, Coluna: 5, Valor: 
+    Linha: 5, Coluna: 6, Valor: 
+    Linha: 6, Coluna: 0, Valor: 
+    Linha: 6, Coluna: 1, Valor: 
+    Linha: 6, Coluna: 2, Valor: 
+    Linha: 6, Coluna: 3, Valor: 
+    Linha: 6, Coluna: 4, Valor: 
+    Linha: 6, Coluna: 5, Valor: 
+    Linha: 6, Coluna: 6, Valor: 
+    Linha: 7, Coluna: 0, Valor: 
+    Linha: 7, Coluna: 1, Valor: 
+    Linha: 7, Coluna: 2, Valor: 
+    Linha: 7, Coluna: 3, Valor: 
+    Linha: 7, Coluna: 4, Valor: 
+    Linha: 7, Coluna: 5, Valor: 
+    Linha: 7, Coluna: 6, Valor: 
+
+Tabela 9:
+    Linha: 0, Coluna: 0, Valor: 1.3.3 - PRECEPTORIA E/OU TUTORIA DE RESIDÊNCIA
+    Linha: 0, Coluna: 1, Valor: 1.3.3 - PRECEPTORIA E/OU TUTORIA DE RESIDÊNCIA
+    Linha: 0, Coluna: 2, Valor: 1.3.3 - PRECEPTORIA E/OU TUTORIA DE RESIDÊNCIA
+    Linha: 0, Coluna: 3, Valor: 1.3.3 - PRECEPTORIA E/OU TUTORIA DE RESIDÊNCIA
+    Linha: 0, Coluna: 4, Valor: 1.3.3 - PRECEPTORIA E/OU TUTORIA DE RESIDÊNCIA
+    Linha: 1, Coluna: 0, Valor: DOC. Nº
+    Linha: 1, Coluna: 1, Valor: Nome e/ou Matrícula do Discente
+    Linha: 1, Coluna: 2, Valor: Tipo
+    Linha: 1, Coluna: 3, Valor: CH semanal
+    Linha: 1, Coluna: 4, Valor: CH semanal
+    Linha: 2, Coluna: 0, Valor: DOC. Nº
+    Linha: 2, Coluna: 1, Valor: 
+    Linha: 2, Coluna: 2, Valor: Tipo
+    Linha: 2, Coluna: 3, Valor: 1ºs
+    Linha: 2, Coluna: 4, Valor: 2ºs
+    Linha: 3, Coluna: 0, Valor: 
+    Linha: 3, Coluna: 1, Valor: 
+    Linha: 3, Coluna: 2, Valor: 
+    Linha: 3, Coluna: 3, Valor: 
+    Linha: 3, Coluna: 4, Valor: 
+    Linha: 4, Coluna: 0, Valor: 
+    Linha: 4, Coluna: 1, Valor: 
+    Linha: 4, Coluna: 2, Valor: 
+    Linha: 4, Coluna: 3, Valor: 
+    Linha: 4, Coluna: 4, Valor: 
+    Linha: 5, Coluna: 0, Valor: 
+    Linha: 5, Coluna: 1, Valor: 
+    Linha: 5, Coluna: 2, Valor: 
+    Linha: 5, Coluna: 3, Valor: 
+    Linha: 5, Coluna: 4, Valor: 
+    Linha: 6, Coluna: 0, Valor: 
+    Linha: 6, Coluna: 1, Valor: 
+    Linha: 6, Coluna: 2, Valor: 
+    Linha: 6, Coluna: 3, Valor: 
+    Linha: 6, Coluna: 4, Valor: 
+    Linha: 7, Coluna: 0, Valor: 
+    Linha: 7, Coluna: 1, Valor: 
+    Linha: 7, Coluna: 2, Valor: 
+    Linha: 7, Coluna: 3, Valor: 
+    Linha: 7, Coluna: 4, Valor: 
+
+Tabela 10:
+    Linha: 0, Coluna: 0, Valor: 1.4 BANCAS EXAMINADORAS: MONOGRAFIA, QUALIFICAÇÃO, DISSERTAÇÃO E TESE
+    Linha: 0, Coluna: 1, Valor: 1.4 BANCAS EXAMINADORAS: MONOGRAFIA, QUALIFICAÇÃO, DISSERTAÇÃO E TESE
+    Linha: 0, Coluna: 2, Valor: 1.4 BANCAS EXAMINADORAS: MONOGRAFIA, QUALIFICAÇÃO, DISSERTAÇÃO E TESE
+    Linha: 0, Coluna: 3, Valor: 1.4 BANCAS EXAMINADORAS: MONOGRAFIA, QUALIFICAÇÃO, DISSERTAÇÃO E TESE
+    Linha: 0, Coluna: 4, Valor: 1.4 BANCAS EXAMINADORAS: MONOGRAFIA, QUALIFICAÇÃO, DISSERTAÇÃO E TESE
+    Linha: 1, Coluna: 0, Valor: DOC. Nº
+    Linha: 1, Coluna: 1, Valor: DESCRIÇÃO (nome do candidato, título do trabalho, IES)
+    Linha: 1, Coluna: 2, Valor: TIPO
+    Linha: 1, Coluna: 3, Valor: CH Semanal
+    Linha: 1, Coluna: 4, Valor: CH Semanal
+    Linha: 2, Coluna: 0, Valor: DOC. Nº
+    Linha: 2, Coluna: 1, Valor: 
+    Linha: 2, Coluna: 2, Valor: TIPO
+    Linha: 2, Coluna: 3, Valor: 1o S
+    Linha: 2, Coluna: 4, Valor: 2o S
+    Linha: 3, Coluna: 0, Valor: 
+    Linha: 3, Coluna: 1, Valor: 
+    Linha: 3, Coluna: 2, Valor: 
+    Linha: 3, Coluna: 3, Valor: 
+    Linha: 3, Coluna: 4, Valor: 
+    Linha: 4, Coluna: 0, Valor: 
+    Linha: 4, Coluna: 1, Valor: 
+    Linha: 4, Coluna: 2, Valor: 
+    Linha: 4, Coluna: 3, Valor: 
+    Linha: 4, Coluna: 4, Valor: 
+    Linha: 5, Coluna: 0, Valor: 
+    Linha: 5, Coluna: 1, Valor: 
+    Linha: 5, Coluna: 2, Valor: 
+    Linha: 5, Coluna: 3, Valor: 
+    Linha: 5, Coluna: 4, Valor: 
+    Linha: 6, Coluna: 0, Valor: 
+    Linha: 6, Coluna: 1, Valor: 
+    Linha: 6, Coluna: 2, Valor: 
+    Linha: 6, Coluna: 3, Valor: 
+    Linha: 6, Coluna: 4, Valor: 
+
+Tabela 11:
+    Linha: 0, Coluna: 0, Valor: 1.5 CH SEMANAL DA ATIVIDADE DE ENSINO (Soma dos itens: 1.1.1, 1.2, 1.3 e 1.4)
+    Linha: 0, Coluna: 1, Valor: 1.5 CH SEMANAL DA ATIVIDADE DE ENSINO (Soma dos itens: 1.1.1, 1.2, 1.3 e 1.4)
+    Linha: 1, Coluna: 0, Valor: 1º SEMESTRE:
+    Linha: 1, Coluna: 1, Valor: 2º SEMESTRE:
+
+Tabela 12:
+    Linha: 0, Coluna: 0, Valor: 1.6 AVALIAÇÃO DISCENTE
+    Linha: 0, Coluna: 1, Valor: 1.6 AVALIAÇÃO DISCENTE
+    Linha: 0, Coluna: 2, Valor: 1.6 AVALIAÇÃO DISCENTE
+    Linha: 0, Coluna: 3, Valor: 1.6 AVALIAÇÃO DISCENTE
+    Linha: 1, Coluna: 0, Valor: DOC Nº
+    Linha: 1, Coluna: 1, Valor: 1º SEMESTRE
+    Linha: 1, Coluna: 2, Valor: DOC. Nº
+    Linha: 1, Coluna: 3, Valor: 2º SEMESTRE
+    Linha: 2, Coluna: 0, Valor: 
+    Linha: 2, Coluna: 1, Valor: 
+    Linha: 2, Coluna: 2, Valor: 
+    Linha: 2, Coluna: 3, Valor: 
+
+Tabela 13:
+    Linha: 0, Coluna: 0, Valor: UFRA
+    Linha: 0, Coluna: 1, Valor: UFRA
+    Linha: 0, Coluna: 2, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE PESQUISA E PRODUÇÃO INTELECTUAL
+ANO: ________
+    Linha: 0, Coluna: 3, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE PESQUISA E PRODUÇÃO INTELECTUAL
+ANO: ________
+    Linha: 0, Coluna: 4, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE PESQUISA E PRODUÇÃO INTELECTUAL
+ANO: ________
+    Linha: 0, Coluna: 5, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE PESQUISA E PRODUÇÃO INTELECTUAL
+ANO: ________
+    Linha: 0, Coluna: 6, Valor: CPPD
+    Linha: 1, Coluna: 0, Valor: 2 PESQUISA/PRODUÇÃO INTELECTUAL
+    Linha: 1, Coluna: 1, Valor: 2 PESQUISA/PRODUÇÃO INTELECTUAL
+    Linha: 1, Coluna: 2, Valor: 2 PESQUISA/PRODUÇÃO INTELECTUAL
+    Linha: 1, Coluna: 3, Valor: 2 PESQUISA/PRODUÇÃO INTELECTUAL
+    Linha: 1, Coluna: 4, Valor: 2 PESQUISA/PRODUÇÃO INTELECTUAL
+    Linha: 1, Coluna: 5, Valor: 2 PESQUISA/PRODUÇÃO INTELECTUAL
+    Linha: 1, Coluna: 6, Valor: 2 PESQUISA/PRODUÇÃO INTELECTUAL
+    Linha: 2, Coluna: 0, Valor: DOC. Nº
+    Linha: 2, Coluna: 1, Valor: 2.1. PROJETOS
+    Linha: 2, Coluna: 2, Valor: 2.1. PROJETOS
+    Linha: 2, Coluna: 3, Valor: 2.1. PROJETOS
+    Linha: 2, Coluna: 4, Valor: 2.1. PROJETOS
+    Linha: 2, Coluna: 5, Valor: 2.1. PROJETOS
+    Linha: 2, Coluna: 6, Valor: 2.1. PROJETOS
+    Linha: 3, Coluna: 0, Valor: 01
+    Linha: 3, Coluna: 1, Valor: Título 1:
+    Linha: 3, Coluna: 2, Valor: Título 1:
+    Linha: 3, Coluna: 3, Valor: Título 1:
+    Linha: 3, Coluna: 4, Valor: Título 1:
+    Linha: 3, Coluna: 5, Valor: Título 1:
+    Linha: 3, Coluna: 6, Valor: Título 1:
+    Linha: 4, Coluna: 0, Valor: 01
+    Linha: 4, Coluna: 1, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 4, Coluna: 2, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 4, Coluna: 3, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 4, Coluna: 4, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 4, Coluna: 5, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 4, Coluna: 6, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 5, Coluna: 0, Valor: 01
+    Linha: 5, Coluna: 1, Valor: Cadastro
+PROPED
+    Linha: 5, Coluna: 2, Valor: Cadastro
+PROPED
+    Linha: 5, Coluna: 3, Valor: Situação atual
+    Linha: 5, Coluna: 4, Valor: Situação atual
+    Linha: 5, Coluna: 5, Valor: Situação atual
+    Linha: 5, Coluna: 6, Valor: Situação atual
+    Linha: 6, Coluna: 0, Valor: 01
+    Linha: 6, Coluna: 1, Valor: 
+    Linha: 6, Coluna: 2, Valor: 
+    Linha: 6, Coluna: 3, Valor: 
+    Linha: 6, Coluna: 4, Valor: 
+    Linha: 6, Coluna: 5, Valor: 
+    Linha: 6, Coluna: 6, Valor: 
+    Linha: 7, Coluna: 0, Valor: 02
+    Linha: 7, Coluna: 1, Valor: Título 2:
+    Linha: 7, Coluna: 2, Valor: Título 2:
+    Linha: 7, Coluna: 3, Valor: Título 2:
+    Linha: 7, Coluna: 4, Valor: Título 2:
+    Linha: 7, Coluna: 5, Valor: Título 2:
+    Linha: 7, Coluna: 6, Valor: Título 2:
+    Linha: 8, Coluna: 0, Valor: 02
+    Linha: 8, Coluna: 1, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 8, Coluna: 2, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 8, Coluna: 3, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 8, Coluna: 4, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 8, Coluna: 5, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 8, Coluna: 6, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 9, Coluna: 0, Valor: 02
+    Linha: 9, Coluna: 1, Valor: Cadastro
+PROPED
+    Linha: 9, Coluna: 2, Valor: Cadastro
+PROPED
+    Linha: 9, Coluna: 3, Valor: Situação atual
+    Linha: 9, Coluna: 4, Valor: Situação atual
+    Linha: 9, Coluna: 5, Valor: Situação atual
+    Linha: 9, Coluna: 6, Valor: Situação atual
+    Linha: 10, Coluna: 0, Valor: 02
+    Linha: 10, Coluna: 1, Valor: 
+    Linha: 10, Coluna: 2, Valor: 
+    Linha: 10, Coluna: 3, Valor: 
+    Linha: 10, Coluna: 4, Valor: 
+    Linha: 10, Coluna: 5, Valor: 
+    Linha: 10, Coluna: 6, Valor: 
+    Linha: 11, Coluna: 0, Valor: 03
+    Linha: 11, Coluna: 1, Valor: Título 3:
+    Linha: 11, Coluna: 2, Valor: Título 3:
+    Linha: 11, Coluna: 3, Valor: Título 3:
+    Linha: 11, Coluna: 4, Valor: Título 3:
+    Linha: 11, Coluna: 5, Valor: Título 3:
+    Linha: 11, Coluna: 6, Valor: Título 3:
+    Linha: 12, Coluna: 0, Valor: 03
+    Linha: 12, Coluna: 1, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 12, Coluna: 2, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 12, Coluna: 3, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 12, Coluna: 4, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 12, Coluna: 5, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 12, Coluna: 6, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 13, Coluna: 0, Valor: 03
+    Linha: 13, Coluna: 1, Valor: Cadastro
+PROPED
+    Linha: 13, Coluna: 2, Valor: Cadastro
+PROPED
+    Linha: 13, Coluna: 3, Valor: Cadastro
+PROPED
+    Linha: 13, Coluna: 4, Valor: Situação atual
+    Linha: 13, Coluna: 5, Valor: Situação atual
+    Linha: 13, Coluna: 6, Valor: Situação atual
+    Linha: 14, Coluna: 0, Valor: 03
+    Linha: 14, Coluna: 1, Valor: 
+    Linha: 14, Coluna: 2, Valor: 
+    Linha: 14, Coluna: 3, Valor: 
+    Linha: 14, Coluna: 4, Valor: 
+    Linha: 14, Coluna: 5, Valor: 
+    Linha: 14, Coluna: 6, Valor: 
+    Linha: 15, Coluna: 0, Valor: 04
+    Linha: 15, Coluna: 1, Valor: Título 4:
+    Linha: 15, Coluna: 2, Valor: Título 4:
+    Linha: 15, Coluna: 3, Valor: Título 4:
+    Linha: 15, Coluna: 4, Valor: Título 4:
+    Linha: 15, Coluna: 5, Valor: Título 4:
+    Linha: 15, Coluna: 6, Valor: Título 4:
+    Linha: 16, Coluna: 0, Valor: 04
+    Linha: 16, Coluna: 1, Valor: (      ) Coordenador         (      ) Colaborador
+    Linha: 16, Coluna: 2, Valor: (      ) Coordenador         (      ) Colaborador
+    Linha: 16, Coluna: 3, Valor: (      ) Coordenador         (      ) Colaborador
+    Linha: 16, Coluna: 4, Valor: (      ) Coordenador         (      ) Colaborador
+    Linha: 16, Coluna: 5, Valor: (      ) Coordenador         (      ) Colaborador
+    Linha: 16, Coluna: 6, Valor: (      ) Coordenador         (      ) Colaborador
+    Linha: 17, Coluna: 0, Valor: 04
+    Linha: 17, Coluna: 1, Valor: Cadastro
+PROPED
+    Linha: 17, Coluna: 2, Valor: Cadastro
+PROPED
+    Linha: 17, Coluna: 3, Valor: Cadastro
+PROPED
+    Linha: 17, Coluna: 4, Valor: Situação atual
+    Linha: 17, Coluna: 5, Valor: Situação atual
+    Linha: 17, Coluna: 6, Valor: Situação atual
+    Linha: 18, Coluna: 0, Valor: 04
+    Linha: 18, Coluna: 1, Valor: 
+    Linha: 18, Coluna: 2, Valor: 
+    Linha: 18, Coluna: 3, Valor: 
+    Linha: 18, Coluna: 4, Valor: 
+    Linha: 18, Coluna: 5, Valor: 
+    Linha: 18, Coluna: 6, Valor: 
+    Linha: 19, Coluna: 0, Valor: 
+    Linha: 19, Coluna: 1, Valor: Título 5:
+    Linha: 19, Coluna: 2, Valor: Título 5:
+    Linha: 19, Coluna: 3, Valor: Título 5:
+    Linha: 19, Coluna: 4, Valor: Título 5:
+    Linha: 19, Coluna: 5, Valor: Título 5:
+    Linha: 19, Coluna: 6, Valor: Título 5:
+    Linha: 20, Coluna: 0, Valor: 
+    Linha: 20, Coluna: 1, Valor: (      ) Coordenador         (      ) Colaborador
+    Linha: 20, Coluna: 2, Valor: (      ) Coordenador         (      ) Colaborador
+    Linha: 20, Coluna: 3, Valor: (      ) Coordenador         (      ) Colaborador
+    Linha: 20, Coluna: 4, Valor: (      ) Coordenador         (      ) Colaborador
+    Linha: 20, Coluna: 5, Valor: (      ) Coordenador         (      ) Colaborador
+    Linha: 20, Coluna: 6, Valor: (      ) Coordenador         (      ) Colaborador
+    Linha: 21, Coluna: 0, Valor: 
+    Linha: 21, Coluna: 1, Valor: Cadastro
+PROPED
+    Linha: 21, Coluna: 2, Valor: Cadastro
+PROPED
+    Linha: 21, Coluna: 3, Valor: Cadastro
+PROPED
+    Linha: 21, Coluna: 4, Valor: Situação atual
+    Linha: 21, Coluna: 5, Valor: Situação atual
+    Linha: 21, Coluna: 6, Valor: Situação atual
+    Linha: 22, Coluna: 0, Valor: 
+    Linha: 22, Coluna: 1, Valor: 
+    Linha: 22, Coluna: 2, Valor: 
+    Linha: 22, Coluna: 3, Valor: 
+    Linha: 22, Coluna: 4, Valor: 
+    Linha: 22, Coluna: 5, Valor: 
+    Linha: 22, Coluna: 6, Valor: 
+    Linha: 23, Coluna: 0, Valor: 
+    Linha: 23, Coluna: 1, Valor: 
+    Linha: 23, Coluna: 2, Valor: 
+    Linha: 23, Coluna: 3, Valor: 
+    Linha: 23, Coluna: 4, Valor: 
+    Linha: 23, Coluna: 5, Valor: 
+    Linha: 23, Coluna: 6, Valor: 
+    Linha: 24, Coluna: 0, Valor: DOC. Nº
+    Linha: 24, Coluna: 1, Valor: 2.2. Trabalhos completos publicados em periódicos, boletins técnicos e outros
+    Linha: 24, Coluna: 2, Valor: 2.2. Trabalhos completos publicados em periódicos, boletins técnicos e outros
+    Linha: 24, Coluna: 3, Valor: 2.2. Trabalhos completos publicados em periódicos, boletins técnicos e outros
+    Linha: 24, Coluna: 4, Valor: 2.2. Trabalhos completos publicados em periódicos, boletins técnicos e outros
+    Linha: 24, Coluna: 5, Valor: 2.2. Trabalhos completos publicados em periódicos, boletins técnicos e outros
+    Linha: 24, Coluna: 6, Valor: 2.2. Trabalhos completos publicados em periódicos, boletins técnicos e outros
+    Linha: 25, Coluna: 0, Valor: 
+    Linha: 25, Coluna: 1, Valor: 
+    Linha: 25, Coluna: 2, Valor: 
+    Linha: 25, Coluna: 3, Valor: 
+    Linha: 25, Coluna: 4, Valor: 
+    Linha: 25, Coluna: 5, Valor: 
+    Linha: 25, Coluna: 6, Valor: 
+    Linha: 26, Coluna: 0, Valor: 
+    Linha: 26, Coluna: 1, Valor: 
+    Linha: 26, Coluna: 2, Valor: 
+    Linha: 26, Coluna: 3, Valor: 
+    Linha: 26, Coluna: 4, Valor: 
+    Linha: 26, Coluna: 5, Valor: 
+    Linha: 26, Coluna: 6, Valor: 
+    Linha: 27, Coluna: 0, Valor: 
+    Linha: 27, Coluna: 1, Valor: 
+    Linha: 27, Coluna: 2, Valor: 
+    Linha: 27, Coluna: 3, Valor: 
+    Linha: 27, Coluna: 4, Valor: 
+    Linha: 27, Coluna: 5, Valor: 
+    Linha: 27, Coluna: 6, Valor: 
+    Linha: 28, Coluna: 0, Valor: DOC. Nº
+    Linha: 28, Coluna: 1, Valor: 2.3. Livros, Capítulos de Livros e Verbetes publicados
+    Linha: 28, Coluna: 2, Valor: 2.3. Livros, Capítulos de Livros e Verbetes publicados
+    Linha: 28, Coluna: 3, Valor: 2.3. Livros, Capítulos de Livros e Verbetes publicados
+    Linha: 28, Coluna: 4, Valor: 2.3. Livros, Capítulos de Livros e Verbetes publicados
+    Linha: 28, Coluna: 5, Valor: 2.3. Livros, Capítulos de Livros e Verbetes publicados
+    Linha: 28, Coluna: 6, Valor: 2.3. Livros, Capítulos de Livros e Verbetes publicados
+    Linha: 29, Coluna: 0, Valor: 
+    Linha: 29, Coluna: 1, Valor: 
+    Linha: 29, Coluna: 2, Valor: 
+    Linha: 29, Coluna: 3, Valor: 
+    Linha: 29, Coluna: 4, Valor: 
+    Linha: 29, Coluna: 5, Valor: 
+    Linha: 29, Coluna: 6, Valor: 
+    Linha: 30, Coluna: 0, Valor: 
+    Linha: 30, Coluna: 1, Valor: 
+    Linha: 30, Coluna: 2, Valor: 
+    Linha: 30, Coluna: 3, Valor: 
+    Linha: 30, Coluna: 4, Valor: 
+    Linha: 30, Coluna: 5, Valor: 
+    Linha: 30, Coluna: 6, Valor: 
+    Linha: 31, Coluna: 0, Valor: 
+    Linha: 31, Coluna: 1, Valor: 
+    Linha: 31, Coluna: 2, Valor: 
+    Linha: 31, Coluna: 3, Valor: 
+    Linha: 31, Coluna: 4, Valor: 
+    Linha: 31, Coluna: 5, Valor: 
+    Linha: 31, Coluna: 6, Valor: 
+    Linha: 32, Coluna: 0, Valor: 
+    Linha: 32, Coluna: 1, Valor: 
+    Linha: 32, Coluna: 2, Valor: 
+    Linha: 32, Coluna: 3, Valor: 
+    Linha: 32, Coluna: 4, Valor: 
+    Linha: 32, Coluna: 5, Valor: 
+    Linha: 32, Coluna: 6, Valor: 
+    Linha: 33, Coluna: 0, Valor: DOC. Nº
+    Linha: 33, Coluna: 1, Valor: 2.4. Trabalhos completos e resumos publicados e/ou apresentados em Congressos ou similares
+    Linha: 33, Coluna: 2, Valor: 2.4. Trabalhos completos e resumos publicados e/ou apresentados em Congressos ou similares
+    Linha: 33, Coluna: 3, Valor: 2.4. Trabalhos completos e resumos publicados e/ou apresentados em Congressos ou similares
+    Linha: 33, Coluna: 4, Valor: 2.4. Trabalhos completos e resumos publicados e/ou apresentados em Congressos ou similares
+    Linha: 33, Coluna: 5, Valor: 2.4. Trabalhos completos e resumos publicados e/ou apresentados em Congressos ou similares
+    Linha: 33, Coluna: 6, Valor: 2.4. Trabalhos completos e resumos publicados e/ou apresentados em Congressos ou similares
+    Linha: 34, Coluna: 0, Valor: 
+    Linha: 34, Coluna: 1, Valor: 
+    Linha: 34, Coluna: 2, Valor: 
+    Linha: 34, Coluna: 3, Valor: 
+    Linha: 34, Coluna: 4, Valor: 
+    Linha: 34, Coluna: 5, Valor: 
+    Linha: 34, Coluna: 6, Valor: 
+    Linha: 35, Coluna: 0, Valor: 
+    Linha: 35, Coluna: 1, Valor: 
+    Linha: 35, Coluna: 2, Valor: 
+    Linha: 35, Coluna: 3, Valor: 
+    Linha: 35, Coluna: 4, Valor: 
+    Linha: 35, Coluna: 5, Valor: 
+    Linha: 35, Coluna: 6, Valor: 
+    Linha: 36, Coluna: 0, Valor: 
+    Linha: 36, Coluna: 1, Valor: 
+    Linha: 36, Coluna: 2, Valor: 
+    Linha: 36, Coluna: 3, Valor: 
+    Linha: 36, Coluna: 4, Valor: 
+    Linha: 36, Coluna: 5, Valor: 
+    Linha: 36, Coluna: 6, Valor: 
+    Linha: 37, Coluna: 0, Valor: DOC. Nº
+    Linha: 37, Coluna: 1, Valor: 2.5- Outras atividades de Pesquisa/Produção Intelectual
+    Linha: 37, Coluna: 2, Valor: 2.5- Outras atividades de Pesquisa/Produção Intelectual
+    Linha: 37, Coluna: 3, Valor: 2.5- Outras atividades de Pesquisa/Produção Intelectual
+    Linha: 37, Coluna: 4, Valor: 2.5- Outras atividades de Pesquisa/Produção Intelectual
+    Linha: 37, Coluna: 5, Valor: 2.5- Outras atividades de Pesquisa/Produção Intelectual
+    Linha: 37, Coluna: 6, Valor: 2.5- Outras atividades de Pesquisa/Produção Intelectual
+    Linha: 38, Coluna: 0, Valor: 
+    Linha: 38, Coluna: 1, Valor: 
+    Linha: 38, Coluna: 2, Valor: 
+    Linha: 38, Coluna: 3, Valor: 
+    Linha: 38, Coluna: 4, Valor: 
+    Linha: 38, Coluna: 5, Valor: 
+    Linha: 38, Coluna: 6, Valor: 
+    Linha: 39, Coluna: 0, Valor: 
+    Linha: 39, Coluna: 1, Valor: 
+    Linha: 39, Coluna: 2, Valor: 
+    Linha: 39, Coluna: 3, Valor: 
+    Linha: 39, Coluna: 4, Valor: 
+    Linha: 39, Coluna: 5, Valor: 
+    Linha: 39, Coluna: 6, Valor: 
+    Linha: 40, Coluna: 0, Valor: 
+    Linha: 40, Coluna: 1, Valor: 
+    Linha: 40, Coluna: 2, Valor: 
+    Linha: 40, Coluna: 3, Valor: 
+    Linha: 40, Coluna: 4, Valor: 
+    Linha: 40, Coluna: 5, Valor: 
+    Linha: 40, Coluna: 6, Valor: 
+    Linha: 41, Coluna: 0, Valor: 
+    Linha: 41, Coluna: 1, Valor: 2.6. CH SEMANAL PARA ATIVIDADES DE PESQUISA:
+    Linha: 41, Coluna: 2, Valor: 2.6. CH SEMANAL PARA ATIVIDADES DE PESQUISA:
+    Linha: 41, Coluna: 3, Valor: 2.6. CH SEMANAL PARA ATIVIDADES DE PESQUISA:
+    Linha: 41, Coluna: 4, Valor: 2.6. CH SEMANAL PARA ATIVIDADES DE PESQUISA:
+    Linha: 41, Coluna: 5, Valor: 2.6. CH SEMANAL PARA ATIVIDADES DE PESQUISA:
+    Linha: 41, Coluna: 6, Valor: 2.6. CH SEMANAL PARA ATIVIDADES DE PESQUISA:
+    Linha: 42, Coluna: 0, Valor: 
+    Linha: 42, Coluna: 1, Valor: 1o Semestre:
+    Linha: 42, Coluna: 2, Valor: 1o Semestre:
+    Linha: 42, Coluna: 3, Valor: 1o Semestre:
+    Linha: 42, Coluna: 4, Valor: 1o Semestre:
+    Linha: 42, Coluna: 5, Valor: 2o Semestre:
+    Linha: 42, Coluna: 6, Valor: 2o Semestre:
+
+Tabela 14:
+    Linha: 0, Coluna: 0, Valor: UFRA
+    Linha: 0, Coluna: 1, Valor: UFRA
+    Linha: 0, Coluna: 2, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE EXTENSÃO
+ANO: _______
+    Linha: 0, Coluna: 3, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE EXTENSÃO
+ANO: _______
+    Linha: 0, Coluna: 4, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE EXTENSÃO
+ANO: _______
+    Linha: 0, Coluna: 5, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE EXTENSÃO
+ANO: _______
+    Linha: 0, Coluna: 6, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE EXTENSÃO
+ANO: _______
+    Linha: 0, Coluna: 7, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE EXTENSÃO
+ANO: _______
+    Linha: 0, Coluna: 8, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE EXTENSÃO
+ANO: _______
+    Linha: 0, Coluna: 9, Valor: CPPD
+    Linha: 1, Coluna: 0, Valor: 
+    Linha: 1, Coluna: 1, Valor: 3 EXTENSÃO
+    Linha: 1, Coluna: 2, Valor: 3 EXTENSÃO
+    Linha: 1, Coluna: 3, Valor: 3 EXTENSÃO
+    Linha: 1, Coluna: 4, Valor: 3 EXTENSÃO
+    Linha: 1, Coluna: 5, Valor: 3 EXTENSÃO
+    Linha: 1, Coluna: 6, Valor: 3 EXTENSÃO
+    Linha: 1, Coluna: 7, Valor: 3 EXTENSÃO
+    Linha: 1, Coluna: 8, Valor: 3 EXTENSÃO
+    Linha: 1, Coluna: 9, Valor: 3 EXTENSÃO
+    Linha: 2, Coluna: 0, Valor: DOC. Nº
+    Linha: 2, Coluna: 1, Valor: 3.1. PROJETOS
+    Linha: 2, Coluna: 2, Valor: 3.1. PROJETOS
+    Linha: 2, Coluna: 3, Valor: 3.1. PROJETOS
+    Linha: 2, Coluna: 4, Valor: 3.1. PROJETOS
+    Linha: 2, Coluna: 5, Valor: 3.1. PROJETOS
+    Linha: 2, Coluna: 6, Valor: 3.1. PROJETOS
+    Linha: 2, Coluna: 7, Valor: 3.1. PROJETOS
+    Linha: 2, Coluna: 8, Valor: 3.1. PROJETOS
+    Linha: 2, Coluna: 9, Valor: 3.1. PROJETOS
+    Linha: 3, Coluna: 0, Valor: 
+    Linha: 3, Coluna: 1, Valor: Título 1:
+    Linha: 3, Coluna: 2, Valor: Título 1:
+    Linha: 3, Coluna: 3, Valor: Título 1:
+    Linha: 3, Coluna: 4, Valor: Título 1:
+    Linha: 3, Coluna: 5, Valor: Título 1:
+    Linha: 3, Coluna: 6, Valor: Título 1:
+    Linha: 3, Coluna: 7, Valor: Título 1:
+    Linha: 3, Coluna: 8, Valor: Título 1:
+    Linha: 3, Coluna: 9, Valor: Título 1:
+    Linha: 4, Coluna: 0, Valor: 
+    Linha: 4, Coluna: 1, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 4, Coluna: 2, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 4, Coluna: 3, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 4, Coluna: 4, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 4, Coluna: 5, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 4, Coluna: 6, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 4, Coluna: 7, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 4, Coluna: 8, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 4, Coluna: 9, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 5, Coluna: 0, Valor: 
+    Linha: 5, Coluna: 1, Valor: Cadastro
+PROEX
+    Linha: 5, Coluna: 2, Valor: Cadastro
+PROEX
+    Linha: 5, Coluna: 3, Valor: Situação atual
+    Linha: 5, Coluna: 4, Valor: Situação atual
+    Linha: 5, Coluna: 5, Valor: Situação atual
+    Linha: 5, Coluna: 6, Valor: Situação atual
+    Linha: 5, Coluna: 7, Valor: Situação atual
+    Linha: 5, Coluna: 8, Valor: Situação atual
+    Linha: 5, Coluna: 9, Valor: Situação atual
+    Linha: 6, Coluna: 0, Valor: 
+    Linha: 6, Coluna: 1, Valor: 
+    Linha: 6, Coluna: 2, Valor: 
+    Linha: 6, Coluna: 3, Valor: 
+    Linha: 6, Coluna: 4, Valor: 
+    Linha: 6, Coluna: 5, Valor: 
+    Linha: 6, Coluna: 6, Valor: 
+    Linha: 6, Coluna: 7, Valor: 
+    Linha: 6, Coluna: 8, Valor: 
+    Linha: 6, Coluna: 9, Valor: 
+    Linha: 7, Coluna: 0, Valor: DOC. Nº
+    Linha: 7, Coluna: 1, Valor: Título 2:
+    Linha: 7, Coluna: 2, Valor: Título 2:
+    Linha: 7, Coluna: 3, Valor: Título 2:
+    Linha: 7, Coluna: 4, Valor: Título 2:
+    Linha: 7, Coluna: 5, Valor: Título 2:
+    Linha: 7, Coluna: 6, Valor: Título 2:
+    Linha: 7, Coluna: 7, Valor: Título 2:
+    Linha: 7, Coluna: 8, Valor: Título 2:
+    Linha: 7, Coluna: 9, Valor: Título 2:
+    Linha: 8, Coluna: 0, Valor: 
+    Linha: 8, Coluna: 1, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 8, Coluna: 2, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 8, Coluna: 3, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 8, Coluna: 4, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 8, Coluna: 5, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 8, Coluna: 6, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 8, Coluna: 7, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 8, Coluna: 8, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 8, Coluna: 9, Valor: (      ) Coordenador         (     ) Colaborador
+    Linha: 9, Coluna: 0, Valor: 
+    Linha: 9, Coluna: 1, Valor: Cadastro
+PROEX
+    Linha: 9, Coluna: 2, Valor: Cadastro
+PROEX
+    Linha: 9, Coluna: 3, Valor: Situação atual
+    Linha: 9, Coluna: 4, Valor: Situação atual
+    Linha: 9, Coluna: 5, Valor: Situação atual
+    Linha: 9, Coluna: 6, Valor: Situação atual
+    Linha: 9, Coluna: 7, Valor: Situação atual
+    Linha: 9, Coluna: 8, Valor: Situação atual
+    Linha: 9, Coluna: 9, Valor: Situação atual
+    Linha: 10, Coluna: 0, Valor: 
+    Linha: 10, Coluna: 1, Valor: 
+    Linha: 10, Coluna: 2, Valor: 
+    Linha: 10, Coluna: 3, Valor: 
+    Linha: 10, Coluna: 4, Valor: 
+    Linha: 10, Coluna: 5, Valor: 
+    Linha: 10, Coluna: 6, Valor: 
+    Linha: 10, Coluna: 7, Valor: 
+    Linha: 10, Coluna: 8, Valor: 
+    Linha: 10, Coluna: 9, Valor: 
+    Linha: 11, Coluna: 0, Valor: 3.2      ESTÁGIOS DE EXTENSÃO
+    Linha: 11, Coluna: 1, Valor: 3.2      ESTÁGIOS DE EXTENSÃO
+    Linha: 11, Coluna: 2, Valor: 3.2      ESTÁGIOS DE EXTENSÃO
+    Linha: 11, Coluna: 3, Valor: 3.2      ESTÁGIOS DE EXTENSÃO
+    Linha: 11, Coluna: 4, Valor: 3.2      ESTÁGIOS DE EXTENSÃO
+    Linha: 11, Coluna: 5, Valor: 3.2      ESTÁGIOS DE EXTENSÃO
+    Linha: 11, Coluna: 6, Valor: 3.2      ESTÁGIOS DE EXTENSÃO
+    Linha: 11, Coluna: 7, Valor: 3.2      ESTÁGIOS DE EXTENSÃO
+    Linha: 11, Coluna: 8, Valor: 3.2      ESTÁGIOS DE EXTENSÃO
+    Linha: 11, Coluna: 9, Valor: 3.2      ESTÁGIOS DE EXTENSÃO
+    Linha: 12, Coluna: 0, Valor: DOC.Nº
+    Linha: 12, Coluna: 1, Valor: Área de Conhecimento
+    Linha: 12, Coluna: 2, Valor: Área de Conhecimento
+    Linha: 12, Coluna: 3, Valor: Área de Conhecimento
+    Linha: 12, Coluna: 4, Valor: Instituição/Local
+    Linha: 12, Coluna: 5, Valor: Período
+    Linha: 12, Coluna: 6, Valor: Período
+    Linha: 12, Coluna: 7, Valor: Carga Horária Semanal
+    Linha: 12, Coluna: 8, Valor: Carga Horária Semanal
+    Linha: 12, Coluna: 9, Valor: Carga Horária Semanal
+    Linha: 13, Coluna: 0, Valor: 
+    Linha: 13, Coluna: 1, Valor: 
+    Linha: 13, Coluna: 2, Valor: 
+    Linha: 13, Coluna: 3, Valor: 
+    Linha: 13, Coluna: 4, Valor: 
+    Linha: 13, Coluna: 5, Valor: 
+    Linha: 13, Coluna: 6, Valor: 
+    Linha: 13, Coluna: 7, Valor: 
+    Linha: 13, Coluna: 8, Valor: 
+    Linha: 13, Coluna: 9, Valor: 
+    Linha: 14, Coluna: 0, Valor: 
+    Linha: 14, Coluna: 1, Valor: 
+    Linha: 14, Coluna: 2, Valor: 
+    Linha: 14, Coluna: 3, Valor: 
+    Linha: 14, Coluna: 4, Valor: 
+    Linha: 14, Coluna: 5, Valor: 
+    Linha: 14, Coluna: 6, Valor: 
+    Linha: 14, Coluna: 7, Valor: 
+    Linha: 14, Coluna: 8, Valor: 
+    Linha: 14, Coluna: 9, Valor: 
+    Linha: 15, Coluna: 0, Valor: 
+    Linha: 15, Coluna: 1, Valor: 
+    Linha: 15, Coluna: 2, Valor: 
+    Linha: 15, Coluna: 3, Valor: 
+    Linha: 15, Coluna: 4, Valor: 
+    Linha: 15, Coluna: 5, Valor: 
+    Linha: 15, Coluna: 6, Valor: 
+    Linha: 15, Coluna: 7, Valor: 
+    Linha: 15, Coluna: 8, Valor: 
+    Linha: 15, Coluna: 9, Valor: 
+    Linha: 16, Coluna: 0, Valor: 3.3
+    Linha: 16, Coluna: 1, Valor: ATIVIDADE DE ENSINO NÃO-FORMAL
+    Linha: 16, Coluna: 2, Valor: ATIVIDADE DE ENSINO NÃO-FORMAL
+    Linha: 16, Coluna: 3, Valor: ATIVIDADE DE ENSINO NÃO-FORMAL
+    Linha: 16, Coluna: 4, Valor: ATIVIDADE DE ENSINO NÃO-FORMAL
+    Linha: 16, Coluna: 5, Valor: ATIVIDADE DE ENSINO NÃO-FORMAL
+    Linha: 16, Coluna: 6, Valor: ATIVIDADE DE ENSINO NÃO-FORMAL
+    Linha: 16, Coluna: 7, Valor: ATIVIDADE DE ENSINO NÃO-FORMAL
+    Linha: 16, Coluna: 8, Valor: ATIVIDADE DE ENSINO NÃO-FORMAL
+    Linha: 16, Coluna: 9, Valor: ATIVIDADE DE ENSINO NÃO-FORMAL
+    Linha: 17, Coluna: 0, Valor: 
+    Linha: 17, Coluna: 1, Valor: Atividades
+    Linha: 17, Coluna: 2, Valor: Atividades
+    Linha: 17, Coluna: 3, Valor: Atividades
+    Linha: 17, Coluna: 4, Valor: Atividades
+    Linha: 17, Coluna: 5, Valor: Atividades
+    Linha: 17, Coluna: 6, Valor: Carga Horária Semanal=CH Total / 23 Semanas
+    Linha: 17, Coluna: 7, Valor: Carga Horária Semanal=CH Total / 23 Semanas
+    Linha: 17, Coluna: 8, Valor: Carga Horária Semanal=CH Total / 23 Semanas
+    Linha: 17, Coluna: 9, Valor: Carga Horária Semanal=CH Total / 23 Semanas
+    Linha: 18, Coluna: 0, Valor: DOC.Nº
+    Linha: 18, Coluna: 1, Valor: 
+    Linha: 18, Coluna: 2, Valor: 
+    Linha: 18, Coluna: 3, Valor: 
+    Linha: 18, Coluna: 4, Valor: 
+    Linha: 18, Coluna: 5, Valor: 
+    Linha: 18, Coluna: 6, Valor: 1º Sem.
+    Linha: 18, Coluna: 7, Valor: 1º Sem.
+    Linha: 18, Coluna: 8, Valor: 2º Sem.
+    Linha: 18, Coluna: 9, Valor: 2º Sem.
+    Linha: 19, Coluna: 0, Valor: 
+    Linha: 19, Coluna: 1, Valor: 
+    Linha: 19, Coluna: 2, Valor: 
+    Linha: 19, Coluna: 3, Valor: 
+    Linha: 19, Coluna: 4, Valor: 
+    Linha: 19, Coluna: 5, Valor: 
+    Linha: 19, Coluna: 6, Valor: 
+    Linha: 19, Coluna: 7, Valor: 
+    Linha: 19, Coluna: 8, Valor: 
+    Linha: 19, Coluna: 9, Valor: 
+    Linha: 20, Coluna: 0, Valor: 
+    Linha: 20, Coluna: 1, Valor: 
+    Linha: 20, Coluna: 2, Valor: 
+    Linha: 20, Coluna: 3, Valor: 
+    Linha: 20, Coluna: 4, Valor: 
+    Linha: 20, Coluna: 5, Valor: 
+    Linha: 20, Coluna: 6, Valor: 
+    Linha: 20, Coluna: 7, Valor: 
+    Linha: 20, Coluna: 8, Valor: 
+    Linha: 20, Coluna: 9, Valor: 
+
+Tabela 15:
+    Linha: 0, Coluna: 0, Valor: 3.4
+    Linha: 0, Coluna: 1, Valor: OUTRAS ATIVIDADES DE EXTENSÃO
+    Linha: 0, Coluna: 2, Valor: OUTRAS ATIVIDADES DE EXTENSÃO
+    Linha: 0, Coluna: 3, Valor: OUTRAS ATIVIDADES DE EXTENSÃO
+    Linha: 1, Coluna: 0, Valor: 
+    Linha: 1, Coluna: 1, Valor: Atividades
+    Linha: 1, Coluna: 2, Valor: Carga Horária Semanal=CH Total / 23 Semanas
+    Linha: 1, Coluna: 3, Valor: Carga Horária Semanal=CH Total / 23 Semanas
+    Linha: 2, Coluna: 0, Valor: DOC.Nº
+    Linha: 2, Coluna: 1, Valor: 
+    Linha: 2, Coluna: 2, Valor: 1º Sem.
+    Linha: 2, Coluna: 3, Valor: 2º Sem.
+    Linha: 3, Coluna: 0, Valor: 
+    Linha: 3, Coluna: 1, Valor: 
+    Linha: 3, Coluna: 2, Valor: 
+    Linha: 3, Coluna: 3, Valor: 
+    Linha: 4, Coluna: 0, Valor: 
+    Linha: 4, Coluna: 1, Valor: 
+    Linha: 4, Coluna: 2, Valor: 
+    Linha: 4, Coluna: 3, Valor: 
+
+Tabela 16:
+    Linha: 0, Coluna: 0, Valor: 3.5. CH SEMANAL PARA ATIVIDADES DE EXTENSÃO:
+    Linha: 0, Coluna: 1, Valor: 3.5. CH SEMANAL PARA ATIVIDADES DE EXTENSÃO:
+    Linha: 1, Coluna: 0, Valor: 1o Semestre:
+    Linha: 1, Coluna: 1, Valor: 2o Semestre:
+
+Tabela 17:
+    Linha: 0, Coluna: 0, Valor: 
+    Linha: 0, Coluna: 1, Valor: UFRA
+    Linha: 0, Coluna: 2, Valor: UFRA
+    Linha: 0, Coluna: 3, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE GESTÃO E REPRESENTAÇÃO 
+ANO: _______
+    Linha: 0, Coluna: 4, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE GESTÃO E REPRESENTAÇÃO 
+ANO: _______
+    Linha: 0, Coluna: 5, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE GESTÃO E REPRESENTAÇÃO 
+ANO: _______
+    Linha: 0, Coluna: 6, Valor: RELATÓRIO DE ATIVIDADES DO DOCENTE – RADOC 
+ATIVIDADES DE GESTÃO E REPRESENTAÇÃO 
+ANO: _______
+    Linha: 0, Coluna: 7, Valor: CPPD
+    Linha: 0, Coluna: 8, Valor: CPPD
+    Linha: 1, Coluna: 0, Valor: 4 – ATIVIDADES DE GESTÃO E REPRESENTAÇÃO
+    Linha: 1, Coluna: 1, Valor: 4 – ATIVIDADES DE GESTÃO E REPRESENTAÇÃO
+    Linha: 1, Coluna: 2, Valor: 4 – ATIVIDADES DE GESTÃO E REPRESENTAÇÃO
+    Linha: 1, Coluna: 3, Valor: 4 – ATIVIDADES DE GESTÃO E REPRESENTAÇÃO
+    Linha: 1, Coluna: 4, Valor: 4 – ATIVIDADES DE GESTÃO E REPRESENTAÇÃO
+    Linha: 1, Coluna: 5, Valor: 4 – ATIVIDADES DE GESTÃO E REPRESENTAÇÃO
+    Linha: 1, Coluna: 6, Valor: 4 – ATIVIDADES DE GESTÃO E REPRESENTAÇÃO
+    Linha: 1, Coluna: 7, Valor: 4 – ATIVIDADES DE GESTÃO E REPRESENTAÇÃO
+    Linha: 1, Coluna: 8, Valor: 4 – ATIVIDADES DE GESTÃO E REPRESENTAÇÃO
+    Linha: 2, Coluna: 0, Valor: DOC. 
+Nº
+    Linha: 2, Coluna: 1, Valor: DOC. 
+Nº
+    Linha: 2, Coluna: 2, Valor: Cargo e/ou Função
+    Linha: 2, Coluna: 3, Valor: Cargo e/ou Função
+    Linha: 2, Coluna: 4, Valor: Sem.
+    Linha: 2, Coluna: 5, Valor: CH semanal
+    Linha: 2, Coluna: 6, Valor: Ato de designação
+    Linha: 2, Coluna: 7, Valor: Ato de designação
+    Linha: 2, Coluna: 8, Valor: Período
+    Linha: 3, Coluna: 0, Valor: 
+    Linha: 3, Coluna: 1, Valor: 
+    Linha: 3, Coluna: 2, Valor: 
+    Linha: 3, Coluna: 3, Valor: 
+    Linha: 3, Coluna: 4, Valor: 
+    Linha: 3, Coluna: 5, Valor: 
+    Linha: 3, Coluna: 6, Valor: 
+    Linha: 3, Coluna: 7, Valor: 
+    Linha: 3, Coluna: 8, Valor: 
+    Linha: 4, Coluna: 0, Valor: 
+    Linha: 4, Coluna: 1, Valor: 
+    Linha: 4, Coluna: 2, Valor: 
+    Linha: 4, Coluna: 3, Valor: 
+    Linha: 4, Coluna: 4, Valor: 
+    Linha: 4, Coluna: 5, Valor: 
+    Linha: 4, Coluna: 6, Valor: 
+    Linha: 4, Coluna: 7, Valor: 
+    Linha: 4, Coluna: 8, Valor: 
+    Linha: 5, Coluna: 0, Valor: 
+    Linha: 5, Coluna: 1, Valor: 
+    Linha: 5, Coluna: 2, Valor: 
+    Linha: 5, Coluna: 3, Valor: 
+    Linha: 5, Coluna: 4, Valor: 
+    Linha: 5, Coluna: 5, Valor: 
+    Linha: 5, Coluna: 6, Valor: 
+    Linha: 5, Coluna: 7, Valor: 
+    Linha: 5, Coluna: 8, Valor: 
+    Linha: 6, Coluna: 0, Valor: 
+    Linha: 6, Coluna: 1, Valor: 
+    Linha: 6, Coluna: 2, Valor: 
+    Linha: 6, Coluna: 3, Valor: 
+    Linha: 6, Coluna: 4, Valor: 
+    Linha: 6, Coluna: 5, Valor: 
+    Linha: 6, Coluna: 6, Valor: 
+    Linha: 6, Coluna: 7, Valor: 
+    Linha: 6, Coluna: 8, Valor: 
+
+Tabela 18:
+    Linha: 0, Coluna: 0, Valor: 5– QUALIFICAÇÃO DO DOCENTE ACADÊMICA PROFISSIONAL E OUTRAS ATIVIDADES.
+    Linha: 0, Coluna: 1, Valor: 5– QUALIFICAÇÃO DO DOCENTE ACADÊMICA PROFISSIONAL E OUTRAS ATIVIDADES.
+    Linha: 0, Coluna: 2, Valor: 5– QUALIFICAÇÃO DO DOCENTE ACADÊMICA PROFISSIONAL E OUTRAS ATIVIDADES.
+    Linha: 1, Coluna: 0, Valor: DOC. Nº
+    Linha: 1, Coluna: 1, Valor: Atividades
+    Linha: 1, Coluna: 2, Valor: Portaria e/ou Data de Realização
+    Linha: 2, Coluna: 0, Valor: 
+    Linha: 2, Coluna: 1, Valor: 
+    Linha: 2, Coluna: 2, Valor: 
+    Linha: 3, Coluna: 0, Valor: 
+    Linha: 3, Coluna: 1, Valor: 
+    Linha: 3, Coluna: 2, Valor: 
+    Linha: 4, Coluna: 0, Valor: 
+    Linha: 4, Coluna: 1, Valor: 
+    Linha: 4, Coluna: 2, Valor: 
+
+Tabela 19:
+    Linha: 0, Coluna: 0, Valor: 6 – DISTRIBUIÇÃO DA CARGA HORÁRIA SEMANAL
+    Linha: 0, Coluna: 1, Valor: 6 – DISTRIBUIÇÃO DA CARGA HORÁRIA SEMANAL
+    Linha: 0, Coluna: 2, Valor: 6 – DISTRIBUIÇÃO DA CARGA HORÁRIA SEMANAL
+    Linha: 0, Coluna: 3, Valor: 6 – DISTRIBUIÇÃO DA CARGA HORÁRIA SEMANAL
+    Linha: 0, Coluna: 4, Valor: 6 – DISTRIBUIÇÃO DA CARGA HORÁRIA SEMANAL
+    Linha: 0, Coluna: 5, Valor: 6 – DISTRIBUIÇÃO DA CARGA HORÁRIA SEMANAL
+    Linha: 1, Coluna: 0, Valor: Semestre
+    Linha: 1, Coluna: 1, Valor: Ativ. Didática
+    Linha: 1, Coluna: 2, Valor: Administração
+    Linha: 1, Coluna: 3, Valor: Pesquisa
+    Linha: 1, Coluna: 4, Valor: Extensão
+    Linha: 1, Coluna: 5, Valor: Total
+    Linha: 2, Coluna: 0, Valor: 1º
+    Linha: 2, Coluna: 1, Valor: 
+    Linha: 2, Coluna: 2, Valor: 
+    Linha: 2, Coluna: 3, Valor: 
+    Linha: 2, Coluna: 4, Valor: 
+    Linha: 2, Coluna: 5, Valor: 
+    Linha: 3, Coluna: 0, Valor: 2º
+    Linha: 3, Coluna: 1, Valor: 
+    Linha: 3, Coluna: 2, Valor: 
+    Linha: 3, Coluna: 3, Valor: 
+    Linha: 3, Coluna: 4, Valor: 
+    Linha: 3, Coluna: 5, Valor: 
+
+Tabela 20:
+    Linha: 0, Coluna: 0, Valor: 7 – PROGRESSÃO / PROMOÇÃO
+    Linha: 0, Coluna: 1, Valor: 
+    Linha: 1, Coluna: 0, Valor: Docente com progressão ou promoção no último semestre deste RADOC.
+SIM (      )                              NÃO (    )
+    Linha: 1, Coluna: 1, Valor: Docente com progressão ou promoção no último semestre deste RADOC.
+SIM (      )                              NÃO (    )
+
+Tabela 21:
+    Linha: 0, Coluna: 0, Valor: 8– OUTRAS INFORMAÇÕES
+    Linha: 0, Coluna: 1, Valor: 8– OUTRAS INFORMAÇÕES
+    Linha: 0, Coluna: 2, Valor: 8– OUTRAS INFORMAÇÕES
+    Linha: 1, Coluna: 0, Valor: DOC. Nº
+    Linha: 1, Coluna: 1, Valor: 
+    Linha: 1, Coluna: 2, Valor: 
+    Linha: 2, Coluna: 0, Valor: 9 - AFASTAMENTOS
+    Linha: 2, Coluna: 1, Valor: 9 - AFASTAMENTOS
+    Linha: 2, Coluna: 2, Valor: 9 - AFASTAMENTOS
+    Linha: 3, Coluna: 0, Valor: DOC. Nº
+    Linha: 3, Coluna: 1, Valor: Motivação do afastamento
+    Linha: 3, Coluna: 2, Valor: Portaria
+    Linha: 4, Coluna: 0, Valor: 
+    Linha: 4, Coluna: 1, Valor: 
+    Linha: 4, Coluna: 2, Valor: 
+    Linha: 5, Coluna: 0, Valor: 
+    Linha: 5, Coluna: 1, Valor: 
+    Linha: 5, Coluna: 2, Valor: 
+
